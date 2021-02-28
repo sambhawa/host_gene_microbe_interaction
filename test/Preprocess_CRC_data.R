@@ -1,3 +1,6 @@
+## Author: Sambhawa Priya
+## priya030@umn.edu
+
 ## Oct 21, 2019
 ## Preprocess CRC gene expression and microbiome data 
 ## This code is adapted from Preprocess_CRC_gene_expr.R and Preprocess_CRC_taxa_abnd.R
